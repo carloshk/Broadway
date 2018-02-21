@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: pink;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
